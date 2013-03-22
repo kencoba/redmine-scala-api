@@ -1,0 +1,17 @@
+exit
+update
+compile
+update
+compile
+update
+compile
+compile -deprecation
+help
+help compile
+compile
+help clean
+clean
+compile
+exit
+compile
+exit
