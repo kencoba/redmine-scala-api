@@ -1,28 +1,32 @@
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mInitial source changes: [0m
 [0m[[0mdebug[0m] [0m	removed:Set()[0m
-[0m[[0mdebug[0m] [0m	added: Set(D:\home\ken\scala\redmine-scala-api\src\main\scala\coba\ken\redmineapi\internal\comm\naivessl\NaiveSSLFactory.scala)[0m
+[0m[[0mdebug[0m] [0m	added: Set(D:\home\ken\scala\redmine-scala-api\src\main\scala\coba\ken\redmineapi\internal\io\MarkedInputStream.scala)[0m
 [0m[[0mdebug[0m] [0m	modified: Set()[0m
 [0m[[0mdebug[0m] [0mRemoved products: Set()[0m
 [0m[[0mdebug[0m] [0mModified external sources: Set()[0m
 [0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(D:\home\ken\scala\redmine-scala-api\src\main\scala\coba\ken\redmineapi\internal\comm\naivessl\NaiveSSLFactory.scala)[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(D:\home\ken\scala\redmine-scala-api\src\main\scala\coba\ken\redmineapi\internal\io\MarkedInputStream.scala)[0m
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m	product: Set()[0m
 [0m[[0mdebug[0m] [0m	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m	external source: Set()[0m
-[0m[[0mdebug[0m] [0mInitially invalidated: Set(D:\home\ken\scala\redmine-scala-api\src\main\scala\coba\ken\redmineapi\internal\comm\naivessl\NaiveSSLFactory.scala)[0m
-[0m[[0minfo[0m] [0mCompiling 1 Scala source to D:\home\ken\scala\redmine-scala-api\target\scala-2.10.1\classes...[0m
-[0m[[0mdebug[0m] [0mInterfacing (CompilerInterface) with Scala compiler version 2.10.1[0m
+[0m[[0mdebug[0m] [0mInitially invalidated: Set(D:\home\ken\scala\redmine-scala-api\src\main\scala\coba\ken\redmineapi\internal\io\MarkedInputStream.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to D:\home\ken\scala\redmine-scala-api\target\scala-2.10\classes...[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 2be3b933, interfacing (CompilerInterface) with Scala compiler version 2.10.1[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-deprecation[0m
 [0m[[0mdebug[0m] [0m	-d[0m
-[0m[[0mdebug[0m] [0m	D:\home\ken\scala\redmine-scala-api\target\scala-2.10.1\classes[0m
+[0m[[0mdebug[0m] [0m	D:\home\ken\scala\redmine-scala-api\target\scala-2.10\classes[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
-[0m[[0mdebug[0m] [0m	C:\tools\JDK\jdk1.6.0_35\jre\lib\resources.jar;C:\tools\JDK\jdk1.6.0_35\jre\lib\rt.jar;C:\tools\JDK\jdk1.6.0_35\jre\lib\sunrsasign.jar;C:\tools\JDK\jdk1.6.0_35\jre\lib\jsse.jar;C:\tools\JDK\jdk1.6.0_35\jre\lib\jce.jar;C:\tools\JDK\jdk1.6.0_35\jre\lib\charsets.jar;C:\tools\JDK\jdk1.6.0_35\jre\lib\modules\jdk.boot.jar;C:\tools\JDK\jdk1.6.0_35\jre\classes;C:\Users\kobayashi\.sbt\boot\scala-2.10.1\lib\scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	C:\tools\JDK\jdk1.7.0_17\jre\lib\resources.jar;C:\tools\JDK\jdk1.7.0_17\jre\lib\rt.jar;C:\tools\JDK\jdk1.7.0_17\jre\lib\sunrsasign.jar;C:\tools\JDK\jdk1.7.0_17\jre\lib\jsse.jar;C:\tools\JDK\jdk1.7.0_17\jre\lib\jce.jar;C:\tools\JDK\jdk1.7.0_17\jre\lib\charsets.jar;C:\tools\JDK\jdk1.7.0_17\jre\lib\jfr.jar;C:\tools\JDK\jdk1.7.0_17\jre\classes;C:\Users\kobayashi\.sbt\boot\scala-2.10.1\lib\scala-library.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
-[0m[[0mdebug[0m] [0m	D:\home\ken\scala\redmine-scala-api\target\scala-2.10.1\classes;C:\Users\kobayashi\.ivy2\cache\org.apache.httpcomponents\httpclient\jars\httpclient-4.2.3.jar;C:\Users\kobayashi\.ivy2\cache\org.apache.httpcomponents\httpcore\jars\httpcore-4.2.2.jar;C:\Users\kobayashi\.ivy2\cache\commons-logging\commons-logging\jars\commons-logging-1.1.1.jar;C:\Users\kobayashi\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.6.jar[0m
-[0m[[0mdebug[0m] [0m	D:\home\ken\scala\redmine-scala-api\src\main\scala\coba\ken\redmineapi\internal\comm\naivessl\NaiveSSLFactory.scala[0m
-[0m[[0mdebug[0m] [0m	Invalidated direct: Set()[0m
-[0m[[0mdebug[0m] [0mIncrementally invalidated: Set()[0m
+[0m[[0mdebug[0m] [0m	D:\home\ken\scala\redmine-scala-api\target\scala-2.10\classes;C:\Users\kobayashi\.ivy2\cache\org.apache.httpcomponents\httpclient\jars\httpclient-4.2.3.jar;C:\Users\kobayashi\.ivy2\cache\org.apache.httpcomponents\httpcore\jars\httpcore-4.2.2.jar;C:\Users\kobayashi\.ivy2\cache\commons-logging\commons-logging\jars\commons-logging-1.1.1.jar;C:\Users\kobayashi\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.6.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 1.618903952 s[0m
+[0m[[0mdebug[0m] [0mStep 2 changed sources and immdediate dependencies:[0m
+[0m[[0mdebug[0m] [0m	Set(D:\home\ken\scala\redmine-scala-api\src\main\scala\coba\ken\redmineapi\internal\io\MarkedInputStream.scala)[0m
+[0m[[0mdebug[0m] [0mNon-trivial strongly connected components: [0m
+[0m[[0mdebug[0m] [0m	[0m
+[0m[[0mdebug[0m] [0mStep 2 invalidated sources:[0m
+[0m[[0mdebug[0m] [0m	Set(D:\home\ken\scala\redmine-scala-api\src\main\scala\coba\ken\redmineapi\internal\io\MarkedInputStream.scala)[0m

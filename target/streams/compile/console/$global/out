@@ -1,0 +1,11 @@
+[0m[[0mdebug[0m] [0mStarting sandboxed run...[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main to exit[0m
+[0m[[0minfo[0m] [0mStarting scala interpreter...[0m
+[0m[[0mdebug[0m] [0m  Boot classpath: C:\tools\JDK\jdk1.7.0_17\jre\lib\resources.jar;C:\tools\JDK\jdk1.7.0_17\jre\lib\rt.jar;C:\tools\JDK\jdk1.7.0_17\jre\lib\sunrsasign.jar;C:\tools\JDK\jdk1.7.0_17\jre\lib\jsse.jar;C:\tools\JDK\jdk1.7.0_17\jre\lib\jce.jar;C:\tools\JDK\jdk1.7.0_17\jre\lib\charsets.jar;C:\tools\JDK\jdk1.7.0_17\jre\lib\jfr.jar;C:\tools\JDK\jdk1.7.0_17\jre\classes;C:\Users\kobayashi\.sbt\boot\scala-2.10.1\lib\scala-library.jar[0m
+[0m[[0mdebug[0m] [0m  Classpath: D:\home\ken\scala\redmine-scala-api\target\scala-2.10\classes;C:\Users\kobayashi\.ivy2\cache\org.apache.httpcomponents\httpclient\jars\httpclient-4.2.3.jar;C:\Users\kobayashi\.ivy2\cache\org.apache.httpcomponents\httpcore\jars\httpcore-4.2.2.jar;C:\Users\kobayashi\.ivy2\cache\commons-logging\commons-logging\jars\commons-logging-1.1.1.jar;C:\Users\kobayashi\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.6.jar;C:\Users\kobayashi\.sbt\boot\scala-2.10.1\lib\scala-compiler.jar;C:\Users\kobayashi\.sbt\boot\scala-2.10.1\lib\jline.jar;C:\Users\kobayashi\.sbt\boot\scala-2.10.1\lib\jansi.jar;C:\Users\kobayashi\.sbt\boot\scala-2.10.1\lib\scala-reflect.jar[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0mdebug[0m] [0m	Thread run-main exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
